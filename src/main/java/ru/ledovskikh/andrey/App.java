@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Branch first commit!");
+        System.out.println("Branch second commit!");
     }
 }
